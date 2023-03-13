@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | head -n 10
+find . -type f ls -tr | head -n 10
